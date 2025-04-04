@@ -34,5 +34,5 @@ To view the project locally:
 2. Navigate to the project directory:
    ```bash
    cd my_portfolio
-3. Open the index.html file in your browser.
-4. 
+3. Open the `Index.html` file in your browser.
+   
